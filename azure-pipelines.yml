@@ -21,6 +21,6 @@ steps:
     npm install -g newman
   displayName: 'npm install and build'
 - script: |
-   sqlcmd -S cpstgsql-17 -E -i SQLQuery6.sql
-   newman run TT_Moving.json -d Moving_Request_Test_Data_PostMan.csv
+   sqlcmd -S cpstgsql-17 -E -i Postman Collections/SQLQuery6.sql
+   newman run Postman Collections/TT_Moving.json -d Postman Collections/Moving_Request_Test_Data_PostMan.csv
   displayName: 'Execute SQL command and run Postman collection'
