@@ -1,4 +1,10 @@
 # Node.js
+- task: NewmanPostman@4
+  inputs:
+    collectionSourceType: 'url'
+    collectionURL: 'https://github.com/mosvaa/Postman_TT_Moving'
+    folder: 'Postman Collections'
+    environment: 'TT_Moving.json'
 # Build a general Node.js project with npm.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
