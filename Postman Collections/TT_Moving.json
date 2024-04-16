@@ -368,7 +368,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "f3e316a5-4f94-42c8-bdd5-bbbd69da503d",
+				"id": "9eb66cd6-21d6-4355-a3a9-d061c6026cfe",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -378,12 +378,24 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "0d6f8116-22db-4acf-ac1c-581d8d54b2f5",
+				"id": "b3d4c818-0822-4626-9600-b5f7a617029c",
 				"type": "text/javascript",
 				"exec": [
 					""
 				]
 			}
+		}
+	],
+	"variable": [
+		{
+			"key": "username",
+			"value": "mostafa.alaa\n",
+			"type": "string"
+		},
+		{
+			"key": "password",
+			"value": "RaeR9896as#\n",
+			"type": "string"
 		}
 	]
 }
