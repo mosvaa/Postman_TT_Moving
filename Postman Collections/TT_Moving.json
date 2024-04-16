@@ -30,8 +30,8 @@
 				"auth": {
 					"type": "ntlm",
 					"ntlm": {
-						"password": "{{password}}",
-						"username": "{{username}}"
+						"password": "RaeR9896as#",
+						"username": "mostafa.alaa"
 					}
 				},
 				"method": "POST",
@@ -111,8 +111,8 @@
 				"auth": {
 					"type": "ntlm",
 					"ntlm": {
-						"password": "{{password}}",
-						"username": "{{username}}"
+						"password": "RaeR9896as#",
+						"username": "mostafa.alaa"
 					}
 				},
 				"method": "POST",
@@ -215,8 +215,8 @@
 				"auth": {
 					"type": "ntlm",
 					"ntlm": {
-						"password": "{{password}}",
-						"username": "{{username}}"
+						"password": "RaeR9896as#",
+						"username": "mostafa.alaa"
 					}
 				},
 				"method": "POST",
@@ -301,8 +301,8 @@
 				"auth": {
 					"type": "ntlm",
 					"ntlm": {
-						"password": "{{password}}",
-						"username": "{{username}}"
+						"password": "RaeR9896as#",
+						"username": "mostafa.alaa"
 					}
 				},
 				"method": "POST",
