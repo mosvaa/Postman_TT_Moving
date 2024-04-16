@@ -360,15 +360,15 @@
 	"auth": {
 		"type": "ntlm",
 		"ntlm": {
-			"password": "RaeR9896as#",
-			"username": "mostafa.alaa"
+			"password": "{{password}}",
+			"username": "{{username}}"
 		}
 	},
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "9eb66cd6-21d6-4355-a3a9-d061c6026cfe",
+				"id": "1ce18b1a-8e3b-401e-bd66-10b580f29293",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -378,7 +378,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "b3d4c818-0822-4626-9600-b5f7a617029c",
+				"id": "c230d092-f1bc-4e04-907e-3a95c27dbf68",
 				"type": "text/javascript",
 				"exec": [
 					""
