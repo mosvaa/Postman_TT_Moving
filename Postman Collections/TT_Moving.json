@@ -215,7 +215,7 @@
 				"auth": {
 					"type": "ntlm",
 					"ntlm": {
-						"password": "RaeR9896as#",
+						"password": "RaeR9896as!",
 						"username": "mostafa.alaa"
 					}
 				},
@@ -301,7 +301,7 @@
 				"auth": {
 					"type": "ntlm",
 					"ntlm": {
-						"password": "RaeR9896as#",
+						"password": "RaeR9896as!",
 						"username": "mostafa.alaa"
 					}
 				},
